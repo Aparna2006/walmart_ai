@@ -1,0 +1,4 @@
+timestamp,store_id,product_id,product_name,units_sold,inventory_level,region,customer_query
+2025-08-01 10:00:00,101,P001,Toothpaste,30,150,East,Where is toothpaste?
+2025-08-01 10:05:00,101,P002,Shampoo,10,200,East,Where can I find shampoo?
+2025-08-01 11:00:00,102,P001,Toothpaste,40,100,West,Need help with toothpaste
