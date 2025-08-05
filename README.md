@@ -21,5 +21,5 @@ This project simulates how Walmart leverages **Artificial Intelligence (AI)** fo
 
 
 
-## 📁 Folder Structure
+
 
